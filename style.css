@@ -1,0 +1,19 @@
+body{
+    
+    font-family: 'Rubik 80s Fade', cursive;  
+    
+}
+
+
+#finish {
+    border-radius: 50px; 
+    color: inherit;
+    background-color: transparent;
+    font-family: 'Rubik 80s Fade', cursive;  
+    margin-left: 40px;
+}
+#finish:hover {
+    background-color: bisque;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
